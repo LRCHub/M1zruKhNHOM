@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "月明かり",
+  "base_artist": "カネコアヤノ",
+  "createdAt": "2026-02-08T14:18:50.558011Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "八月、某、月明かり",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_八月、某、月明かり_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月明かり",
+      "artist": "Ayano Kaneko",
+      "has_synced": true,
+      "path": "select/02_月明かり_Ayano_Kaneko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "月明かり",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/03_月明かり_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "八月、某、月明かり",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/04_八月、某、月明かり_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "月明かり",
+      "artist": "カネコアヤノ",
+      "has_synced": true,
+      "path": "select/05_月明かり_カネコアヤノ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "月明かり (Paused)",
+      "artist": "カネコアヤノ",
+      "has_synced": true,
+      "path": "select/06_月明かり_(Paused)_カネコアヤノ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "八月、某、月明かり (「月光」 LIVE ver.)",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/07_八月、某、月明かり_(「月光」_LIVE_ver.)_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "八月、某、月明かり",
+      "artist": "ヨルシカ (Yorushika、n-buna ナブナ、suis)",
+      "has_synced": true,
+      "path": "select/08_八月、某、月明かり_ヨルシカ_(Yorushika、n-buna_ナブナ、suis).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "八月、某、月明かり (August, That Place, Moonlight)",
+      "artist": "ヨルシカ (Yorushika)",
+      "has_synced": true,
+      "path": "select/09_八月、某、月明かり_(August,_That_Place,_Moonlight)_ヨルシカ_(Yorushika).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "八月、某、月明かり",
+      "artist": "Yorushika (ヨルシカ)",
+      "has_synced": true,
+      "path": "select/10_八月、某、月明かり_Yorushika_(ヨルシカ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月明かり",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/pl_01_月明かり_カネコアヤノ.txt"
+    }
+  ]
+}
